@@ -1,5 +1,7 @@
 ### Olá, seja bem vindo! 👋
-
+- Meu nome é Caio de Souza e sou Desenvolvedor de Software, de SC, Brasil.
+  
 <!--![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSouza07&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouza07&layout=compact&theme=synthwave)](https://github.com/Shuraza/github-readme-stats)-->
-##TESTE
+
+
