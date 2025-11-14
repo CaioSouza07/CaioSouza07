@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">Contato</h2>
+
+###
+
+
+
+###
+
 <h2 align="left">Minhas tecnologias</h2>
 
 ###
