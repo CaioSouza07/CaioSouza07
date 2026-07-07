@@ -1,72 +1,80 @@
-<h1 align="left">Olá, Seja bem vindo! 👋</h1>
+<h1 align="center">Caio de Souza</h1>
 
-###
+<p align="center">
+  <strong>Estagiário de Desenvolvimento de Software</strong><br>
+  Estudante de Engenharia de Software • Java • Spring Boot • React
+</p>
 
-<p align="left">Meu nome é Caio de Souza, sou iniciante em Desenvolvimento de Software, de SC, Brasil.</p>
+<p align="center">
+  Atualmente atuo no desenvolvimento de software, criando soluções para aplicações web e buscando evoluir continuamente como desenvolvedor Full Stack.
+</p>
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+## Sobre mim
 
-###
+Sou estudante de **Engenharia de Software** na **UNIVILLE** e atualmente trabalho como **Estagiário de Desenvolvimento de Software**.
 
-<p align="left">✱ Estudante de Engenharia de Software na UNIVILLE<br>✱ Atualmente trabalho como Assistente Administrativo<br>✱ Objetivo de iniciar minha carreira na área de desenvolvimento</p>
+Tenho interesse em desenvolvimento de aplicações web, arquitetura de software e boas práticas de programação. Gosto de aprender novas tecnologias, enfrentar desafios e transformar ideias em projetos que gerem valor.
 
-###
+Meu objetivo é crescer profissionalmente na área, adquirindo cada vez mais experiência no desenvolvimento de software e participando de projetos que me permitam evoluir técnica e profissionalmente.
 
-<h2 align="left">Contato</h2>
+---
 
-###
+## Tecnologias
 
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/caio-de-souza2006/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:caiodesouza.cds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+### Backend
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,docker" />
+</p>
 
-<h2 align="left">Minhas tecnologias</h2>
+### Frontend
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-<h3 align="left">Backend</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
+### Banco de Dados
 
-<h3 align="left">Database</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
-<h3 align="left">IDE's</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+### Ferramentas
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
-<h2 align="left">Estastísticas</h2>
+---
 
-###
+## Atualmente
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioSouza07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="380" alt="stats graph"  />
-</div>
+- Desenvolvendo aplicações utilizando **Java** e **Spring Boot**
+- Criando interfaces modernas com **React**
+- Estudando arquitetura de software, APIs REST e boas práticas de desenvolvimento
+- Trabalhando em projetos para fortalecer minha experiência como desenvolvedor Full Stack
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioSouza07&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dracula&hide_border=false&order=2" width="380" alt="languages graph"  />
-</div>
+---
 
+## Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouza07&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouza07&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+## Contato
+
+<p align="left">
+<a href="https://www.linkedin.com/in/caio-de-souza2006/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:caiodesouza.cds@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
