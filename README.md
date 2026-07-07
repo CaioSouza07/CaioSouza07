@@ -26,13 +26,13 @@ Meu objetivo é crescer profissionalmente na área, adquirindo cada vez mais exp
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,docker" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 </p>
 
 ### Banco de Dados
