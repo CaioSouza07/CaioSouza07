@@ -23,38 +23,10 @@ Meu objetivo é crescer profissionalmente na área, adquirindo cada vez mais exp
 
 ## Tecnologias
 
-### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,docker,git,github,postgres,mysql,react,js,tailwind" />
 </p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-### Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-
----
-
-## Atualmente
-
-- Desenvolvendo aplicações utilizando **Java** e **Spring Boot**
-- Criando interfaces modernas com **React**
-- Estudando arquitetura de software, APIs REST e boas práticas de desenvolvimento
-- Trabalhando em projetos para fortalecer minha experiência como desenvolvedor Full Stack
 
 ---
 
